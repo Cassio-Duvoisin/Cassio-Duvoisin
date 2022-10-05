@@ -1,16 +1,13 @@
-### Hi there 👋
+### Opa! Eu sou o Cassio.
 
-<!--
-**Cassio-Duvoisin/Cassio-Duvoisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Atualmente trabalhando na ETECHjr
+- 🤖 Cursando Engenharia Mecatrônica na UFSC
+ ##
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Cassio-Duvoisin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio-Duvoisin&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ##
